@@ -1,0 +1,22 @@
+# build artifacts
+build/
+devel/
+install/
+__pycache__/
+*.pyc
+*.pyo
+*.swp
+*.swo
+.catkin_workspace
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# large media - keep GIF previews only, link full videos
+*.mp4
+*.webm
+*.avi
+*.zip
+*.bag
